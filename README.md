@@ -1,7 +1,7 @@
 # NinjaWarrior
  2D platform game where a ninja must overcome all the obstacles in his way, trying to travel as far as possible to get the best score.
 
-NinjaWarrior v1.0
+<b>NinjaWarrior v1.0</b>
 
 Features:
 - The scene uses procedural generation to create platforms.
@@ -80,4 +80,4 @@ Future features:
 - ExtraHealth - Earn extra health if currentHealth == initialHealth
 
 Bugs:
--Background parallax doesn’t contemplate the player reset. (New method Reset() in Parallax.cs called by PlayerController.cs ? )
+- Background parallax doesn’t contemplate the player reset. (New method Reset() in Parallax.cs called by PlayerController.cs ? )
