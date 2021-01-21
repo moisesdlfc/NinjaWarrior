@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1C8C6437-C7CE-104A-6261-6C3E97DE8ACC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Parallax.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="165" Column="10" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="181" Column="57" />
+      <File FileName="Assets/Scripts/Saw.cs" />
+      <File FileName="Assets/Scripts/KillTrigger.cs" />
+      <File FileName="Assets/Scripts/Parallax.cs" Line="23" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NinjaWarrior" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Parallax.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NinjaWarrior" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="179d8081-8b19-4f33-bc76-8c44d56a5707" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

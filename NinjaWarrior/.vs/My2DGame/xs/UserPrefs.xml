@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{DCE03EC3-8969-7CEC-EE91-A0A062C46D3F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SawRotation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="169" Column="22" />
+      <File FileName="Assets/Scripts/LeaveZone.cs" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="80" Column="55" />
+      <File FileName="Assets/Scripts/KillTrigger.cs" Line="46" Column="21" />
+      <File FileName="Assets/Scripts/LevelBlock.cs" />
+      <File FileName="Assets/Scripts/LevelGenerator.cs" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="14" Column="26" />
+      <File FileName="Assets/Scripts/Cannon.cs" Line="39" Column="40" />
+      <File FileName="Assets/Scripts/CannonBall.cs" Line="33" Column="28" />
+      <File FileName="Assets/Scripts/SawRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Saw.cs" />
+      <File FileName="Assets/Scripts/Collectable.cs" Line="48" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My2DGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SawRotation.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="My2DGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d82b9c6a-4105-4a29-a68f-8ab34519d8d7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
